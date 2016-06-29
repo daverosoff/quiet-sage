@@ -1,0 +1,4 @@
+quiet-sage, a Sublime Text 3 color scheme by Dave Rosoff.
+
+Copyright 2016 Dave Rosoff.
+
